@@ -1,0 +1,7 @@
+{
+	"require" : {
+		"google/apiclient": "dev-master",
+		"slim/slim": "2.4.0",
+		"iio/libmergepdf": "2.3.1"
+	}
+}
